@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: blue
+Favorite food: pizza
+Favorite musician/band: israeili 
+Favorite movie: spiderman 
+Requested grade in the course: 98 
